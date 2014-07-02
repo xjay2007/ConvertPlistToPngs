@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>cube_0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{604, 113}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 113}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 487}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 325}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 163}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{442, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 811}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280, 113}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{604, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{442, 113}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{280, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 649}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>cube_star_off.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {110, 160}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 19}, {110, 160}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>efx_cube_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{993, 21}, {19, 19}}</string>
+			<key>offset</key>
+			<string>{-40, 60}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {19, 19}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{48, 973}, {35, 35}}</string>
+			<key>offset</key>
+			<string>{-32, 52}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {35, 35}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{928, 66}, {62, 62}}</string>
+			<key>offset</key>
+			<string>{-19, 39}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {62, 62}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766, 223}, {100, 112}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {100, 112}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{916, 130}, {100, 106}}</string>
+			<key>offset</key>
+			<string>{0, -17}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 38}, {100, 106}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{880, 232}, {58, 58}}</string>
+			<key>offset</key>
+			<string>{21, -41}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{46, 86}, {58, 58}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85, 973}, {31, 31}}</string>
+			<key>offset</key>
+			<string>{34, -54}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{73, 113}, {31, 31}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{85, 1006}, {15, 15}}</string>
+			<key>offset</key>
+			<string>{42, -62}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{89, 129}, {15, 15}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_cube_blast.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{766, 113}, {108, 148}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 148}}</string>
+			<key>sourceSize</key>
+			<string>{108, 148}</string>
+		</dict>
+		<key>efx_item.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{928, 1}, {63, 63}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{38, 56}, {63, 63}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+		<key>efx_star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{993, 1}, {18, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 20}}</string>
+			<key>sourceSize</key>
+			<string>{18, 20}</string>
+		</dict>
+		<key>eye.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{57, 1010}, {6, 6}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {6, 6}}</string>
+			<key>sourceSize</key>
+			<string>{6, 6}</string>
+		</dict>
+		<key>eye_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{48, 1010}, {10, 7}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {10, 7}}</string>
+			<key>sourceSize</key>
+			<string>{10, 7}</string>
+		</dict>
+		<key>item.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 973}, {45, 45}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{47, 65}, {45, 45}}</string>
+			<key>sourceSize</key>
+			<string>{140, 190}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>cards.png</string>
+	</dict>
+</dict>
+</plist>
